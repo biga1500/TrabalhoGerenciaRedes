@@ -1,0 +1,28 @@
+body,html{
+    height:100%;
+}
+button{
+    width: 50%;    
+}   
+.buttons-float{
+    float: left;
+}
+.btnDavies{
+    float: left;
+}
+.btnDavies .first{
+    color:red;   
+}
+.btnDavies .first{
+    color:blue;   
+}
+.row{
+    display: block !important;
+    margin: auto !important;
+}
+.align{
+    margin-top: 25%;
+}
+.labelAlign{
+    text-align:left;
+}
